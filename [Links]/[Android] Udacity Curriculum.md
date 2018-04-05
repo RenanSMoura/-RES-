@@ -22,7 +22,7 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 # Full Curriculum Outline
 
-| Level        | Group       | Course                                                                                                    | Length   | Projects |Done                                    |
+| Level        | Group       | Course                                                                                                    | Length   | Projects | Done                                    |
 | ---:         | :---        | :---                                                                                                      | :---     | :---                                         |
 | Beginner     | Core        | [UI Design](https://www.udacity.com/course/android-basics-user-interface--ud834) &nbsp; ☆¹                | 4 Weeks  | Birthday Card, Business Info                 |
 | Beginner     | Core        | [User Input](https://www.udacity.com/course/android-basics-user-input--ud836) &nbsp; ☆¹                   | 4 Weeks  | Coffee Ordering App, Score Tracker, Quiz App |
